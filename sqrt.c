@@ -1,3 +1,4 @@
+//a program that prints square root of a given number. If number is negative, message "ERROR" is printed.
 #include <math.h>
 #include <stdio.h>
 
