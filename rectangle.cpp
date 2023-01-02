@@ -1,3 +1,4 @@
+//a C program that computes area of a rectangle by given width and length.
 #include<stdio.h>
 
 int main() {
