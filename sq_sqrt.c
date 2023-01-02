@@ -1,5 +1,6 @@
-	#include <math.h>
-	#include <stdio.h>
+//a C program that computes square root and square of a given non negative real number.
+#include <math.h>
+#include <stdio.h>
 
 	int main() {
 		float number, squareRoot;
